@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.electronicsconsult.com](www.electronicsconsult.com)
 
-- 📫 How to reach me: **electronicconsult1@gmail.com**
+- 📫 How to reach me: [email](mailto:electronicconsult1@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
