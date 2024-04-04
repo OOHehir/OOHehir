@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owen O'Hehir</h1>
 <h3 align="center">A passionate Embedded Electronics Engineer based in Dublin, Ireland</h3>
 
-- 🔭 I’m currently working on **Yocto, Microchip EGT (GUI), Bash, Device Trees, Bluetooth, I2C, SPI & more!**
+- 🔭 I’m currently working on **Yocto, Zephyr RTOS, Bash, Device Trees, Bluetooth, I2C, SPI & more!**
 
 - 🌱 I’m currently learning **To perfect my embedded fu**
 
